@@ -15,7 +15,7 @@ export default function Yes() {
     return (
         <div className="yesPage">
         <h1>good!!</h1>
-        <h2>you are my favorite person in the world! i’ll never love anyone like i love you</h2>
+        <h2>you are my favorite person in the world! i&apos;ll never love anyone like i love you</h2>
         <br />
         <Image id="gif" src="/belnico2.png" alt="belnico!" width="300" height="300"/>
         <br />
